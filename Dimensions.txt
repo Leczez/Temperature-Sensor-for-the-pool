@@ -1,0 +1,3 @@
+Värme växlaren = 62.5 mm
+
+Små rör till värme växlaren = 12.35 mm
